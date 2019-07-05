@@ -95,7 +95,7 @@ Reference resource
 * [GLES doc from KhronosGroup](https://github.com/KhronosGroup/OpenGL-Refpages)
 * [EGL doc from KhronosGroup](https://github.com/KhronosGroup/EGL-Registry)
 * [docbook-xsl at SourceFroge](https://sourceforge.net/projects/docbook/files/docbook-xsl/)
-
+* [IntelliJ plugin docs](http://www.jetbrains.org/intellij/sdk/docs/welcome.html)
 
 License
 --------
